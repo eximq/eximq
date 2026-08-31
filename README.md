@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there 👋 I'm Igor
 
-<!--
-**eximq/eximq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineer** focused on LLM safety, RAG systems, and evaluation frameworks.
 
-Here are some ideas to get you started:
+🎯 **Currently building:**
+- [SafeRAG Eval](https://github.com/eximq/safe-rag-eval) — Open-source framework for evaluating hallucination and unauthorized action risk in RAG/agent LLM systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **Tech stack:**
+- Python, Pydantic, FastAPI
+- LLM APIs (OpenAI, Groq, Mistral, Ollama)
+- RAG: LangChain, LlamaIndex, ChromaDB, Qdrant
+- Evaluation: RAGAS, DeepEval, custom frameworks
+- DevOps: Docker, GitHub Actions
+
+📍 **Looking for:** Remote AI Engineering roles (US/EU)
+
+📫 **Reach me:**
+- 💼 LinkedIn:
+- 💬 GitHub Discussions: open a discussion in any of my repos
