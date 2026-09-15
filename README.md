@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**AI Engineer** focused on LLM safety, RAG systems, and evaluation frameworks.
+**AI/ML Engineer** focused on LLM safety, RAG systems, and evaluation frameworks.
 
 🎯 **Currently building:**
 - [SafeRAG Eval](https://github.com/eximq/safe-rag-eval) — Open-source framework for evaluating hallucination and unauthorized action risk in RAG/agent LLM systems
@@ -24,7 +24,7 @@
 - Docker + GitHub Actions
 
 📍 **Looking for:** Remote AI Engineering roles (US/EU)
-📅 **Available from:** Mid-October
+📅 **Available from:** Mid-November
 
 📫 **Reach me:**
 - 💼 LinkedIn: [linkedin.com/in/igzu](https://linkedin.com/in/igzu) *(preferred for work inquiries)*
