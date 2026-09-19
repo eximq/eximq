@@ -12,7 +12,8 @@
 
 **Current:**
 - Python 3.10+, dataclasses, type hints
-- OpenAI SDK (Groq, OpenAI, Mistral, Ollama compatible)
+- Groq API (qwen/qwen3.8-27b, openai/gpt-oss-120b)
+- Google Gemini API (gemini-3.8-flash)
 - PyYAML, python-dotenv for configuration
 - Custom LLM-as-Judge evaluation framework
 
